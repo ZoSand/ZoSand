@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Currently working on a wallpaper engine
+### Currently working on private projects
 ### Ask me about anything I'll try to answer
 
 
