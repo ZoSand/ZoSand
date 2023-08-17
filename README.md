@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Currently working on private projects
-### Ask me about anything I'll try to answer
 
 
 ### [Kissh](https://github.com/kissh2021) ❤️
