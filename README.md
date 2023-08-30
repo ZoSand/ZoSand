@@ -38,6 +38,5 @@ Here are some ideas to get you started:
 ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 ![Perforce Helix](https://img.shields.io/badge/-PERFORCE-00AEEF?style=for-the-badge&logo=Perforce&logoColor=white)
 
-<a href="https://github.com/ZoSand">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZoSand&show_icons=true&bg_color=33,12F2B7,C6A4FF&title_color=374B43&text_color=374B43&include_all_commits=true&icon_color=374B43&hide_border=true&count_private=true" />
-</a>
+[![Zo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zosand&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ZoSand#gh-dark-mode-only)
+[![Zo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zosand&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/zosand#gh-light-mode-only)
