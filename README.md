@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Currently working on private projects :p
+### Currently working on non-public projects :p
 
 
 ### [Kissh](https://github.com/kissh2021) ❤️
