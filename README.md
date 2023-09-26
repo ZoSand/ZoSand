@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - **Projects:**
   - Beryllium: A simple C++ game engine, currently in early stages of planification.
 - **Contact:**
-  - Email: [zo.lambert@zosand.fr](mailto:zo.lambert@zosand.fr)
+  - Email: [zo.lambert@zosand.fr](mailto:zo.lambert@zosand.fr) (please DO NOT send marketing messages!!) 
   - Website: [zosand.fr](https://zosand.fr)
   - LinkedIn: [Zo LAMBERT](https://www.linkedin.com/in/zo-lambert/)
 
