@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - **Interests:** Exploring new technologies, building cool projects, and improving my skills.
 - **Languages Enthusiast:** Coding in C, C#, Lua, and JavaScript, with a soft spot for C++.
 - **Projects:**
-  - [Beryllium](https://github.com/ZoSand/Beryllium): A simple C++ game engine, currently in early stages of planification.
-  - [WinDevKit](https://github.com/ZoSand/WinDevKit): A C++ object-oriented wrapper of Windows API (Win32).
+  - [Beryllium](https://github.com/ZoSand/Beryllium): A simple C++ game engine, currently in early stages of development.
+  - [WinDevKit](https://github.com/ZoSand/WinDevKit): A C++ object-oriented wrapper of Windows API (Win32), paused.
 - **Contact:**
   - Email: [zo.lambert@zosand.fr](mailto:zo.lambert@zosand.fr) (please DO NOT send marketing messages!!) 
   - Website: [zosand.fr](https://zosand.fr)
