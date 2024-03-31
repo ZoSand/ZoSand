@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - **Interests:** Exploring new technologies, building cool projects, and improving my skills.
 - **Languages Enthusiast:** Coding in C, C#, Lua, and JavaScript, with a soft spot for C++.
 - **Projects:**
-  - Newtype: A simple C++ game engine, currently in early stages of development, not ready to use.
-  - [WinDevKit](https://github.com/ZoSand/WinDevKit): A C++ object-oriented wrapper of Windows API (Win32), paused.
+  - [Newtype](https://github.com/ZoSand/Newtype): A simple C++ game engine, currently in early stages of development, not ready to use.
 - **Contact:**
   - Email: [zo.lambert@zosand.fr](mailto:zo.lambert@zosand.fr) (please DO **NOT** send marketing messages!!) 
   - LinkedIn: [Zo LAMBERT](https://www.linkedin.com/in/zo-lambert/)
