@@ -35,13 +35,13 @@ Feel free to reach out to me!
 
 ## Projects
 
-> ### Tentown Heroes
-> ![tentown_gp_2.png](images/tentown_gp_2.png)
-> 
-> Tentown Heroes is a third-person shooter (TPS) game we created during our final year at Creajeux, a programming school in Nîmes (France). The game is set in Tentown, where robots have gone haywire and started attacking people. Players become heroes, each with unique powers, sent to stop the robotic menace. Designed for local multiplayer, Tentown Heroes offers a game experience that encourages teamwork as players battle to save the town.
->
-> ![tentown_gp_1.png](images/tentown_gp_1.png)
+### Tentown Heroes
 
 > [!NOTE]  
 > Sources are private
 
+![tentown_gp_2.png](images/tentown_gp_2.png)
+
+Tentown Heroes is a third-person shooter (TPS) game we created during our final year at Creajeux, a programming school in Nîmes (France). The game is set in Tentown, where robots have gone haywire and started attacking people. Players become heroes, each with unique powers, sent to stop the robotic menace. Designed for local multiplayer, Tentown Heroes offers a game experience that encourages teamwork as players battle to save the town.
+
+![tentown_gp_1.png](images/tentown_gp_1.png)
