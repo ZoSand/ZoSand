@@ -45,3 +45,14 @@ Feel free to reach out to me!
 Tentown Heroes is a third-person shooter (TPS) game we created during our final year at Creajeux, a programming school in Nîmes (France). The game is set in Tentown, where robots have gone haywire and started attacking people. Players become heroes, each with unique powers, sent to stop the robotic menace. Designed for local multiplayer, Tentown Heroes offers a game experience that encourages teamwork as players battle to save the town.
 
 ![tentown_gp_1.png](images/tentown_gp_1.png)
+
+### Between 2 Worlds
+
+> [!NOTE]  
+> See https://github.com/Kissh2021/Between-2-Worlds
+
+Between 2 Worlds is a small platformer we made during the Geneva Global Game Jam in 2022. The goal is to progress through the level while switching between two dimensions, activating and deactivating platforms. 
+
+![b2w_gp_1.png](images/b2w_gp_1.png)
+![b2w_gp_2.png](images/b2w_gp_2.png)
+
