@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - **Learner:** I mainly code because I find it fun!
 - **Interests:** Exploring new technologies, building cool projects, and improving my skills.
 - **Languages Enthusiast:** Coding in C, C#, Lua, and JavaScript, with a soft spot for C++.
-- **Projects:**
-  - [Newtype](https://github.com/ZoSand/Newtype): A simple C++ game engine, currently in early stages of development, not ready to use.
 - **Contact:**
   - Email: [zo.lambert@zosand.fr](mailto:zo.lambert@zosand.fr) (please DO **NOT** send marketing messages!!) 
   - LinkedIn: [Zo LAMBERT](https://www.linkedin.com/in/zo-lambert/)
